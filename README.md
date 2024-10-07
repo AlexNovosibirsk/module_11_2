@@ -6,7 +6,9 @@
 <img src="https://github.com/AlexNovosibirsk/module_11_2/blob/main/png/pg1.png" height="500"/></h1>
 Устанавливаем в mvenv библиотеки, необходимые для проекта, обозначеные в requirements.txt
 <img src="https://github.com/AlexNovosibirsk/module_11_2/blob/main/png/pg2.png" height="500"/></h1>
+Проверим содержимое двух виртуальных окружений
 <img src="https://github.com/AlexNovosibirsk/module_11_2/blob/main/png/pg3.png" height="500"/></h1>
+В настройках проекта проверим с каким окружением будет работать проект
 <img src="https://github.com/AlexNovosibirsk/module_11_2/blob/main/png/pg3.3.png" height="500"/></h1>
 Запускаем программу.
 <img src="https://github.com/AlexNovosibirsk/module_11_2/blob/main/png/pg4.png" height="500"/></h1>
